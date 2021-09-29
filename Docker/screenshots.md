@@ -14,3 +14,10 @@ screenshot for task2
 
 ![image-20210928103955077](C:\Users\alex\AppData\Roaming\Typora\typora-user-images\image-20210928103955077.png)
 
+
+
+extra:
+
+deploy first container on GCP k8s 
+
+![image-20210929083955166](C:\Users\alex\AppData\Roaming\Typora\typora-user-images\image-20210929083955166.png)
