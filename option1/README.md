@@ -1,4 +1,4 @@
-# Steps to start the project
+# Steps to start the project are in [This file](https://github.com/malingzhi58/14848HW/blob/master/option1/ProjWeb/README.md)
 
-### 1.pull docker images from dockerhub
+The pictures are for checkpoint.
 
