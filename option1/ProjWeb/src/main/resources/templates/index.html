@@ -11,10 +11,14 @@ Please type the number that corresponds to which application you would like to r
     2. Apache Spark<br>
     3. Jupyter Notebook <br>
     4. SonarQube and SonarScanner<br>
-    Type the number here
+
 </label>
 
-<input type="text" id="name" name="name" required
-       minlength="4" maxlength="8" size="10">
+
+<form th:action="@{/cmd}" method="post">
+    <p>Type the number here<input name="command"  placeholder="ex:1"></p>
+    <button type="submit">submit</button>
+</form>
+
 </body>
 </html>
