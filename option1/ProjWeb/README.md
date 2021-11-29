@@ -1,5 +1,7 @@
 # Steps to start the project
 
+:warning: Link for [code walkthrough video](https://www.youtube.com/watch?v=0XExwE84pCk)
+
 ## 1.pull docker images from dockerhub, tag the image, deploy on GCP, and expose the service
 
 - Alert:warning:: The following services are deployed on personal cluster, which is shut down after finishing demo videos. To run this project on local machine, please deploy the following services first and change the ip in the code.
